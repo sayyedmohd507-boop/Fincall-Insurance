@@ -1,0 +1,7 @@
+{
+  "name": "Fincall Insurance",
+  "description": "Protect what matters most with Fincall Insurance Marketing Consultants - Instant quotes, Challan Pay, and AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
